@@ -72,7 +72,7 @@ export default {
       answer1: '',
       answer2: '',
       show: []
-    };
+    };//基础数据
   },
   methods: {
     async handleSubmit() {
